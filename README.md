@@ -12,10 +12,17 @@ Image-based talking head systems can synthesize realistic facial expressions acc
   we intend use Web-RTC to implement client-server architecture.
   
 # Project Plan
-## Week 1-2: 
-  * Project Idea Discussion
-  * Decided the Project idea
-  * Updated the Project Proposal
-  * Technology research on technologies we are concidering to use
-  * Paper research on our project title
-  
+Iteration 1
+The first iteration (first part of deployment) setting up the infrastructure for the talking head system. This involves selecting an appropriate cloud provider or server for hosting the system (we plan on using web-RTC), setting up the necessary software and hardware components. This include configuring the network settings. This part of deployment is important for ensuring that the project is reliable and scalable.
+
+Iteration 2
+The second iteration involves deploying the trained machine learning model that powers the talking head system. This may involve configuring the model for deployment, selecting an appropriate framework or library for serving the model, and integrating the model with the system. this step works as a testing deployment to find out whether all the GUI is working fine or not.
+
+Iteration 3
+The third iteration involves developing a user interface for the talking head system and integrating it with other systems or applications. this part is used to connect the system with a web based interface or any application for usage.
+
+Iteration 4
+the fourth iteration include deploying the system completely and testing whether the system is working as expected. find out any mistakes or errors and rectify them
+
+Iteration 5 (Final Iteration)
+This is the final step of the project. this including preparing the project report for the deployment and wrapping up everything and submitting it with all necessary files
