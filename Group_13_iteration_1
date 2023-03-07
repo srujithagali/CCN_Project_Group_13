@@ -1,0 +1,23 @@
+#Iteration 1
+The project proposed is image driven talking head. We have divided the project into 4 iterations and a final demo. So, the first iteration is setting up environments and making the system supportable for the project to run. This includes using the correct software, downloading all dependencies, importing necessary libraries and making the environment safe, reliable and easy to use. 
+The first requirement for deployment of this project is a platform and we should use python version above 3.7. we used python 3.10.16 version for this project. We can use pycharm or VScode as a platform to run the code.
+After installing the python language in your system, the next step is to install all the packages and dependencies to support the project. This can be done in the terminal by calling the python language and using the pip to install all the packages in the requirements file. We have gone through all the packages listed in the file and came to know about every package and why it is important. The package and their uses are listed below:
+1.	‘imageio’: used to read and write different types of image and video file formats. It uses an easy-to-use api to load and save the data.
+2.	‘imageio-ffmpeg’: read and write video using ffmpeg software
+3.	‘matplotlib’: used for creatin interactive visualizations in python. It is famous and mostly ised for data visualization and plotting.
+4.	‘numpy’: one of the popular package which supports arrays, matrices and different mathematical functions. This is definitely used in all machine learning and database projects.
+5.	‘pandas’: one of the popular library for data manipulation and analysis.
+6.	‘PyYALM’: used for reading and writing configuration files, serializing python objects and used for exchanging data between different applications.
+7.	‘Scikit-image’: used for image processing like image filtering, segmentation, feature extraction etc.…
+8.	‘scikit-learn’: machine learning library for python.
+9.	‘scipy’: used for numerical functions like linear algebra, signal processing, integration and optimization.
+10.	’torch’: provides flexible platform for training neural networks.
+11.	‘torchvision’: used for computer vision applications and deep learning models.
+12.	‘face-alignment’: a package for detecting and aligning faces in images. It can be used for a variety of applications, including face recognition and analysis.
+13.	‘opencv-python’: a library for computer vision applications. It provides a set of tools for processing images and video, including image filtering, feature detection, and object tracking.
+These are all the packages that are required for this project. So, as we mentioned in the proposal, the first iteration is all about setting up the environment which supports our project correctly. We have downloaded the python 3.10 version which is suitable for the project and downloaded all the packages and dependencies. By the iteration 1, the system is all set for the project and meets all the requirements. 
+We got to iteration 1 and finished all of the tasks as promised. Some screenshots of our progress are included below (in this case downloading all dependencies and setting up environment).
+***Please refer the word document for screenshots of our progress 1***
+This is the end of the first iteration. The second iteration includes deploying the trained system and selecting appropriate framework and libraries and checking whether all the GUI in working fine or not.
+
+
