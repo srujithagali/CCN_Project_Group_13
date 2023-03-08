@@ -9,7 +9,7 @@
 Image-based talking head systems can synthesize realistic facial expressions accompanying speech and control tags of facial expressions. This project mainly focuses on the image-driven talking head for facial expressions. All the existing models focus on 2D representations learned from input images. We mainly focus on 3D facial geometry, which will benefit us in generating 3D face structures and avoiding noisy backgrounds and also focuses on developing a realistic talking head video of a person, cartoon, etc., from a source of the image of that person or video of another person. In the real-world scenario, this will benefit in making animation for video games, virtual meetings.
         
 # Architecture:
-  we intend use Web-RTC to implement client-server architecture.
+ we intend use Web-RTC to implement client-server architecture.
   
 # Project Plan
 Iteration 1
@@ -25,4 +25,4 @@ Iteration 4
 the fourth iteration include deploying the system completely and testing whether the system is working as expected. find out any mistakes or errors and rectify them
 
 Iteration 5 (Final Iteration)
-This is the final step of the project. this including preparing the project report for the deployment and wrapping up everything and submitting it with all necessary files
+This is the final step of the project. This includes preparing the project report for the deployment and wrapping up everything and submitting it with all the necessary files
