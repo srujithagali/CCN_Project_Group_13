@@ -16,7 +16,7 @@ Iteration 1
 The first iteration (first part of deployment) setting up the infrastructure for the talking head system. This involves selecting an appropriate cloud provider or server for hosting the system (we plan on using web-RTC), setting up the necessary software and hardware components. This include configuring the network settings. This part of deployment is important for ensuring that the project is reliable and scalable.
 
 Iteration 2
-The second iteration involves deploying the trained machine learning model that powers the talking head system. This may involve configuring the model for deployment, selecting an appropriate framework or library for serving the model, and integrating the model with the system. this step works as a testing deployment to find out whether all the GUI is working fine or not.
+The second iteration involves deploying the trained machine learning model that powers the talking head system. This may involve configuring the model for deployment, selecting an appropriate framework or library for serving the model, and integrating the model with the system. This step works as a testing deployment to find out whether all the GUI is working fine or not.
 
 Iteration 3
 The third iteration involves developing a user interface for the talking head system and integrating it with other systems or applications. this part is used to connect the system with a web based interface or any application for usage.
