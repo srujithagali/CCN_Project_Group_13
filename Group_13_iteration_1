@@ -4,7 +4,7 @@ The first requirement for deployment of this project is a platform and we should
 After installing the python language in your system, the next step is to install all the packages and dependencies to support the project. This can be done in the terminal by calling the python language and using the pip to install all the packages in the requirements file. We have gone through all the packages listed in the file and came to know about every package and why it is important. The package and their uses are listed below:
 1.	‘imageio’: used to read and write different types of image and video file formats. It uses an easy-to-use api to load and save the data.
 2.	‘imageio-ffmpeg’: read and write video using ffmpeg software
-3.	‘matplotlib’: used for creatin interactive visualizations in python. It is famous and mostly ised for data visualization and plotting.
+3.	‘matplotlib’: used for creating interactive visualizations in python. It is famous and mostly used for data visualization and plotting.
 4.	‘numpy’: one of the popular package which supports arrays, matrices and different mathematical functions. This is definitely used in all machine learning and database projects.
 5.	‘pandas’: one of the popular library for data manipulation and analysis.
 6.	‘PyYALM’: used for reading and writing configuration files, serializing python objects and used for exchanging data between different applications.
